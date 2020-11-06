@@ -12,14 +12,3 @@
 <li><a href='about.php'>About</a></li>
 <li><a href='contact.php'>Contact</a></li>
 </ul>
-
-<h1>About</h1>
-
-<footer>
-
-<p>My PHP Website &copy; 2020</p>
-
-</footer>
-
-</body>
-</html>
